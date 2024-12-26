@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("push World");
         System.out.println("pull World");
         System.out.println("hot-fix World");
-        System.out.println("master to hot-fix World");
+        System.out.println("master to hot-fix World test");
     }
 }
